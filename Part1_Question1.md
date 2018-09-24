@@ -15,7 +15,7 @@ Directive | Use | Example
 
 [Sometimes, you'll want to escape Markdown symbol](https://help.github.com/articles/basic-writing-and-formatting-syntax/#ignoring-markdown-formatting)
 
-The above link is actually a link to the following webpage : https://help.github.com/articles/basic-writing-and-formatting-syntax/#ignoring-markdown-formatting. Maybe you'll find it handy!
+The above link is actually a link to the following webpage : \https://help.github.com/articles/basic-writing-and-formatting-syntax/#ignoring-markdown-formatting\. Maybe you'll find it handy!
 ***
 ## A Friendly Reminder
 >Remember, some components in Markdown require spaces between text and symbols, such as headers and tables. For example, # Header, not #Header!
