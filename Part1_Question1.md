@@ -8,10 +8,11 @@ The Markdown syntax is a way of **structuring** documents and providing styling 
 ## Common GitHub Markdown Text Directives
 Directive | Use | Example
 --- |--- | --- |
-* | Italic | *Italic*
-** |Bold | **Bold**
-~~| Strikethrough | ~~Stikethrough~~
-*** | Horizontal Rule | N/A
+* | Italic | *Italic*|
+** |Bold | **Bold**|
+\~~| Strikethrough | ~~Stikethrough~~|
+*** | Horizontal Rule | N/A|
+
 [Sometimes, you'll want to escape Markdown symbol](https://help.github.com/articles/basic-writing-and-formatting-syntax/#ignoring-markdown-formatting)
 
 The above link is actually a link to the following webpage : https://help.github.com/articles/basic-writing-and-formatting-syntax/#ignoring-markdown-formatting. Maybe you'll find it handy!
